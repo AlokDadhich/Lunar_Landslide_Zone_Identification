@@ -1,7 +1,7 @@
 streamlit
+ultralytics
 pandas
 numpy
+opencv-python-headless
 scikit-learn
 joblib
-matplotlib
-opencv-python-headless
